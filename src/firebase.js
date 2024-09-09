@@ -8,14 +8,12 @@ import {getFirestore} from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  // apiKey: APIKEY,
-  apikey:"AIzaSyB-Fg65OiUgUiZeMlpQ1hgLSxjnXW6vJYs",
+   apiKey: APIKEY,
   authDomain: "board-infinit-todo.firebaseapp.com",
   projectId: "board-infinit-todo",
   storageBucket: "board-infinit-todo.appspot.com",
   messagingSenderId: "560550811396",
-  // appId: APPID,
-  appId:"1:560550811396:web:7c84848198298cfa40e251",
+   appId: APPID,
 };
 
 // Initialize Firebase
