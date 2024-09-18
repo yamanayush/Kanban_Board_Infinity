@@ -29,7 +29,7 @@ This React-based Todo application, integrated with Redux and Firebase, offers a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vikash8101/ToDo_Board_infinity.git
+   git clone https://github.com/yamanayush/Kanban_Board_Infinity.git
    ```
 2. Navigate to the project directory:
    ```bash
